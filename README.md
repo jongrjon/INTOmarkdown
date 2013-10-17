@@ -19,16 +19,16 @@ Lýsið hvernig gekk að setja upp Linux (Ubuntu eða aðra útgáfu). Bætið i
 ## 4. Uppsettur hugbúnaður
 
 * VLC Media player
-- $ git clone git://git.videolan.org/vlc.git
-- Permission is granted to copy, distribute and/or modify this document under the terms of the GNU General Public License as published by the Free Software Foundation; either version 2 of the License, or (at your option) any later version. The text of the license can be found on the GNU website.
+    - <https://wiki.videolan.org/VLC_Source_code>
+    - Permission is granted to copy, distribute and/or modify this document under the terms of the GNU General Public License as published by the Free Software Foundation; either version 2 of the License, or (at your option) any later version. The text of the license can be found on the GNU website.
 * Transmission BitTorrent client
-- <https://trac.transmissionbt.com/browser#tags>
-- Transmission is free software licensed under the terms of the GNU General Public License (GPL), with parts under the MIT License
+    - <https://trac.transmissionbt.com/browser#tags>
+    - Transmission is free software licensed under the terms of the GNU General Public License (GPL), with parts under the MIT License
 * GIMP
-- <https://git.gnome.org/browse/gimp/>
-- LGPL v3+ og GPLv3+
+    - <https://git.gnome.org/browse/gimp/>
+    - LGPL v3+ og GPLv3+
 * Blender
-- <http://wiki.blender.org/index.php/Dev:Doc/Building\_Blender>
-- GNU General Public License v3 or later
+    - <http://wiki.blender.org/index.php/Dev:Doc/Building\_Blender>
+    - GNU General Public License v3 or later
 
 ## 5. Unnið með Git (2. hluti)
