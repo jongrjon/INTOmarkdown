@@ -7,7 +7,7 @@ Open Source
 
 Það gekk bara mjög vel að setja upp Ubuntu í gegnum Parallels Desktop á Macbook Pro. Engin vandamál komu upp.
 
-![alt screenshot](scr.png)
+![alt screenshot](/scr.png)
 
 ## 2. Uppsetning á vim && git
 
