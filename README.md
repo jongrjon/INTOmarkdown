@@ -1,7 +1,7 @@
 #Open Source
 
-*Fannar Traustason
-*Jón Helgi Kjartansson
+* Fannar Traustason
+* Jón Helgi Kjartansson
 
 ## 1. Linux uppsetning
 
