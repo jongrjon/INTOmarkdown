@@ -1,11 +1,13 @@
-#Open Source
+Open Source
 
 * Fannar Traustason
 * Jón Helgi Kjartansson
 
 ## 1. Linux uppsetning
 
-Lýsið hvernig gekk að setja upp Linux (Ubuntu eða aðra útgáfu). Bætið inn í þetta skjal ljósmynd af tölvunni að ræsa Linux (skoðið hvernig myndir eru settar inn í Markdown skjöl).
+Það gekk bara mjög vel að setja upp Ubuntu í gegnum Parallels Desktop á Macbook Pro. Engin vandamál komu upp.
+
+![alt screenshot](scr.png)
 
 ## 2. Uppsetning á vim && git
 
