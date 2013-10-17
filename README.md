@@ -9,10 +9,6 @@ Open Source
 
 ![Screenshot af Ubuntu á mac](/scr.png?raw=true)
 
-![Github logo](https://github.com/images/logo.png?raw=true)
-
-![Github logo](https://github.com/images/logo.png)
-
 ## 2. Uppsetning á vim && git
 
 Það gekk bara mjög vel að setja upp Vim && Git hjá okkur báðum. Við fylgdum leiðbeiningunum í verkefnislýsinginunni og það gekk allt eins og í sögu.
